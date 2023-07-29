@@ -1,0 +1,25 @@
+
+
+Git is a version control system
+it is used to keep track of changes made to our files from time to time..
+//basically we can time travel and the past changes made to the code.
+
+
+basic commands :
+git --version  //it gives the version of the git that we are using.
+
+git config --global user.name Prajwal Bhat
+git config --global user.email bhatprajwal12@gmail.com
+//this commands git who u actually are.
+
+
+mkdir project_name   //creates a directory
+cd project_name     //comes to newley created directory
+
+git init //initializes  empty  git repository in your current repository.
+
+
+
+ 
+
+ 
